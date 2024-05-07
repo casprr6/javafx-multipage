@@ -5,25 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86ca5684-1b31-4c94-a2aa-5747cfbd9ed1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/ViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/AbstractSceneElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/AbstractSceneLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/LayoutController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/NavbarController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/PageOneController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/PageTwoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/layout.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/navbar.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/page-one.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/page-two.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/MultiPageApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/MultiPageApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/MultiPageApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/AbstractSceneElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/AbstractSceneElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/AbstractSceneLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/AbstractSceneLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/LayoutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/LayoutController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/NavbarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/NavbarController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/PageOneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/PageOneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/PageTwoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/PageTwoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/layout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/layout.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/page-one.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/page-one.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "viewmodel",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/Benjamin/IdeaProjects/multi-page-test/src/main/java/com/berghofer/multipagetest",
     "node.js.detected.package.eslint": "true",
@@ -82,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714795866625</updated>
-      <workItem from="1714795867760" duration="13623000" />
+      <workItem from="1714795867760" duration="18159000" />
     </task>
     <servers />
   </component>

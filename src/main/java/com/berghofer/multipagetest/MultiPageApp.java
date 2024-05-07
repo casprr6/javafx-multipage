@@ -7,6 +7,9 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
+/**
+ * Nothing special here.
+ */
 public class MultiPageApp extends Application {
     @Override
     public void start(Stage stage) throws IOException {
