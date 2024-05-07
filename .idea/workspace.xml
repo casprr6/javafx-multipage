@@ -5,13 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86ca5684-1b31-4c94-a2aa-5747cfbd9ed1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/ViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/AbstractSceneElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/AbstractSceneLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/LayoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/NavbarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/PageOneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/controllers/PageTwoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/layout.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/navbar.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/page-one.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/page-two.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/MultiPageApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/berghofer/multipagetest/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/berghofer/multipagetest/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -31,9 +59,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MultiPageApp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Benjamin/IdeaProjects/multi-page-test/src/main/java/com/berghofer/multipagetest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -46,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714795866625</updated>
-      <workItem from="1714795867760" duration="1000" />
+      <workItem from="1714795867760" duration="13623000" />
     </task>
     <servers />
   </component>

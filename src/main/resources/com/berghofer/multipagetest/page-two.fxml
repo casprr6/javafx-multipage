@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.berghofer.multipagetest.controllers.PageTwoController"
+            prefHeight="400.0" prefWidth="600.0">
+    <Label text="This is page two!" />
+    <Label fx:id="text" text="Placeholder" />
+    <TextField fx:id="textInput" promptText="Type something" />
+    <Button onAction="#setText" text="Set" />
+</VBox>
